@@ -9,9 +9,7 @@
 ---
 
 <!-- About Me Section -->
-
 ## 👨‍💻 About Me
-
 > A passionate Software engineer, Statistician who loves solving complex problems with elegant solutions
 
 I'm a Software engineer with 5 months of experience specializing in AI Software engineering. When I'm not coding, you can find me Gaming.
@@ -56,7 +54,7 @@ I'm a Software engineer with 5 months of experience specializing in AI Software 
 
 | Project | Description | Technologies |
 |--------|-------------|-------------|
-| **HEART_DISEASE_PREDICTION-MODEL(https://github.com/Ainda-c/HEART_DISEASE_PREDICTION-MODEL.git)** | A brief description of what this project does and its key features |(https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) !(https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+| **HEART_DISEASE_PREDICTION-MODEL(https://github.com/Ainda-c/HEART_DISEASE_PREDICTION-MODEL.git)** | A brief description of what this project does and its key features | ![Tech Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tech Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
@@ -85,16 +83,16 @@ I'm a Software engineer with 5 months of experience specializing in AI Software 
 
 I'm always open to interesting discussions, collaborations, and new opportunities!
 
-[!(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dadius)
-[!(https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dadius2001@gmail.com)
-[!(https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Da_DiuS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dadius)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dadius2001@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Da_DiuS)
 
 ---
 
 <!-- Fun Footer -->
 <div align="center">
   
-  !(https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
   
   ⚡ **Coding Fun Fact:** 
   > "The first computer bug was an actual moth found in a Harvard Mark II computer in 1947!"
