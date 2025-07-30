@@ -1,5 +1,5 @@
 # 🚀 Welcome to My GitHub Profile! 
-Hi there! I'm **[Your Name]**, a passionate developer, AI enthusiast, and cloud practitioner. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models. 
+Hi there! I'm **Ainda Dadius**, a passionate Analyst, Developer, AI enthusiast, and software engineer. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models. 
 ## 🛠️ Tech Stack 
 ### 🔹 Programming & Core Concepts 
 <p align="left">
